@@ -1,0 +1,13 @@
+{
+    "name": "google/login",
+    "description": "google login sonyunara",
+    "authors": [
+        {
+            "name": "fathulislamerlangga",
+            "email": "fathulislamerlangga@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
